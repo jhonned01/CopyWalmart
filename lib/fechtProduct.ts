@@ -28,6 +28,7 @@ async function fetchProduct(url: string) {
       if (data.results.length === 0) return;
 
       const result: any = data?.results[0];
+      console.log(result);
 
       return result?.content;
     })

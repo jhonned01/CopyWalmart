@@ -26,7 +26,7 @@ export const useCarStore = create<CardState>()(
             };
           });
         },
-        addToCard: (product) => {
+        addToCard: (product: any) => {
           set((state: any) => ({
             cart: [...state.cart, product],
           }));

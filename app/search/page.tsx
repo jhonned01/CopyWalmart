@@ -9,6 +9,7 @@ type Props = {
 
 const SearchPage = async ({ searchParams: { q } }: Props) => {
   const results = await fetchSearch(q);
+  console.log(results);
 
   return (
     <div className="p-10">
