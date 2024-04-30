@@ -10,42 +10,42 @@ export default function Home() {
           className="bg-pink-200 h-full md:h-32"
         />
         <GridOption
-          title="Shop Wardrobe"
+          title="Wardrobe"
           image="https://links.papareact.com/8ko"
           className="bg-blue-100 col-span-2 row-span-2"
         />
         <GridOption
-          title="Shop Home"
+          title="Furniture"
           image="https://links.papareact.com/szu"
           className="bg-pink-200 row-span-2"
         />
         <GridOption
-          title="Shop Electronics"
+          title="Electronics"
           image="https://links.papareact.com/n7r"
           className="bg-yellow-100 h-64"
         />
         <GridOption
-          title="Shop Toys"
+          title="Toy"
           image="https://links.papareact.com/pj2"
           className="bg-green-100 h-64 col-span-2"
         />
         <GridOption
-          title="All you need for match Day"
+          title="Soccer"
           image="https://links.papareact.com/m8e"
           className="bg-red-100 row-span-2  col-span-2"
         />
         <GridOption
-          title="Shop Gadgets"
+          title="Tools"
           image="https://links.papareact.com/gs1"
           className="bg-orange-100 h-64 "
         />
         <GridOption
-          title="Shop Beauty"
+          title="Beauty"
           image="https://links.papareact.com/4y0"
           className="bg-blue-100 h-64 "
         />
         <GridOption
-          title="Shop Sport"
+          title="Sport"
           image="https://links.papareact.com/sq2"
           className="bg-blue-100 h-64 "
         />{" "}
